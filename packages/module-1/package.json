@@ -7,9 +7,11 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "axios": "^0.18.0"
+        "axios": "^0.18.0",
+        "module-2": "^1.0.0"
     },
     "keywords": [],
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "gitHead": "3d32fde6c6d865ca0d9020f1c68ca4c108714780"
 }
